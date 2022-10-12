@@ -1,12 +1,12 @@
-# Dynamic-Interception-Proxy Demo
+## Dynamic-Interception-Proxy + Ultraviolet
+---
+# TODO:
 
-**Contains Ultraviolet to show dual-proxy compatibility**
-
-
-## Running
-```txt
-git clone https://github.com/Dynamic-Interception-Proxy/DIP-Demo
-cd DIP-Demo
-npm install
-npm start
-```
+<ul>
+  <li>
+  Better UI
+  </li>
+    <li>
+  
+  </li>
+</ul> 
