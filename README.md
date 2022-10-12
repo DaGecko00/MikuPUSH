@@ -6,7 +6,12 @@
   <li>
   Better UI
   </li>
-    <li>
-  
-  </li>
-</ul> 
+</ul>
+
+# DONE:
+
+<ul>
+  <li>Better Accessibility</li>
+  <li>Running at Port 8080</li>
+   <li>Fixed UV</li>
+</ul>
