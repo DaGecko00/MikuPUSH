@@ -24,7 +24,7 @@
           placeholder="Search using Ultraviolet or Paste a URL"
         />
       </form>
-
+<button onclick="theme()">Change Theme</button>
       <script src="/dip/dip.config.js"></script>
       <script src="/dip/dip.page.js"></script>
       <script src="/uv/uv.bundle.js"></script>
@@ -45,7 +45,7 @@
       width: 50%;
       border: 0.5px lightgray solid;
       border-radius: 25px;
-      color: darkgray;
+      color: #CBC3E3;
       outline: none;
     }
     .center2 {
@@ -62,7 +62,7 @@
       left: 50%;
       transform: translate(-50%, 400%);
       font-family: sans-serif;
-      color: lightgray;
+      color: #CBC3E3;
       font-weight: 500;
     }
     h1 {
@@ -71,5 +71,20 @@
     body {
       background: white;
     }
+    p {
+      color: lightgray
+    }
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #CBC3E3;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #CBC3E3;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #CBC3E3;
+}
   </style>
 </html>
