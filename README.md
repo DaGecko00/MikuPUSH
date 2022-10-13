@@ -1,9 +1,10 @@
 
+# Dynamic-Interception-Proxy
+#### Ported to glitch by: Brodie Johnson  (For Easy Deployment)
+___
 # TODO:
 
-<ul>
-   <li>About:Blank Button</li>
-</ul>
+Nothing Right Now
 
 # DONE:
 
@@ -14,4 +15,5 @@
    <li>Added DIP</li>
    <li>Better UI</li>
    <li>UV Theme</li>
+  <li>About:Blank Button</li>
 </ul>
