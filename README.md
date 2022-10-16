@@ -5,7 +5,7 @@ ___
 # TODO:
 
 <ul>
-   <li>Fix Server Issue with UV and DIP.</li>
+   <li>More Ui Elements</li>
 </ul>
 
 # DONE:
@@ -19,4 +19,5 @@ ___
    <li>UV Theme</li>
    <li>About:Blank Button</li>
    <li>Fix Overflow Errors</li>
+   <li>Fix Server Issue with UV and DIP (Make sure to clear cookies)</li>
 </ul>
