@@ -4,7 +4,9 @@
 ___
 # TODO:
 
-Nothing Right Now
+<ul>
+   <li>Fix Server Issue with UV and DIP.</li>
+</ul>
 
 # DONE:
 
@@ -15,5 +17,6 @@ Nothing Right Now
    <li>Added DIP</li>
    <li>Better UI</li>
    <li>UV Theme</li>
-  <li>About:Blank Button</li>
+   <li>About:Blank Button</li>
+   <li>Fix Overflow Errors</li>
 </ul>
