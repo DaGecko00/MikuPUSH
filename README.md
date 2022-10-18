@@ -9,6 +9,7 @@ ___
    <li>Clear Data After Session</li>
    <li>ERROR Screen</li>
    <li>Loading Screen</li>
+  <li>Loading Screen</li>
 </ul>
 
 # DONE:
