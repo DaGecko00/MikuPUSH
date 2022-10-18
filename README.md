@@ -6,7 +6,9 @@ ___
 
 <ul>
    <li>More Ui Elements</li>
-   <li>Clear Data after session</li>
+   <li>Clear Data After Session</li>
+   <li>ERROR Screen</li>
+   <li>Loading Screen</li>
 </ul>
 
 # DONE:
