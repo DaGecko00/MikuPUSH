@@ -6,6 +6,7 @@ ___
 
 <ul>
    <li>More Ui Elements</li>
+   <li>Clear Data after session</li>
 </ul>
 
 # DONE:
